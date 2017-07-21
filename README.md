@@ -3,6 +3,11 @@ Go swag is awesome, and you shouldn't have to wait for a conference to get more!
 
 Please add to the list of where to get all the Go swag!
 
+## For Fundraising/Charity
+
+### Denver Mile High T-Shirt
+[Purchase T-Shirt](https://teespring.com/denvergophers-always#pid=369&cid=6513&sid=front) All profits will be donated to diversity funds supporting the #golang community.
+
 ## Free Swag
 
 
