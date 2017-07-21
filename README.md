@@ -1,5 +1,7 @@
-# go-swag
-Go swag is awesome, here is a list of how to get more!
+# Go Swag
+Go swag is awesome, and you shouldn't have to wait for a conference to get more!
+
+Please add to the list of where to get all the Go swag!
 
 ## Free Swag
 
